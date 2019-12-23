@@ -1,0 +1,113 @@
+body {
+    background-color: #f0ecec	;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    color: #e05454;
+    font-weight: bolder;
+}
+
+.photopro {
+    width: 20%;
+    border-radius: 100px;
+    border: solid #f0ecec	 3px;
+    margin-top: 20px;
+}
+
+section {
+    background-color: white;
+    max-width: 550px;
+    align-items: center;
+    margin: auto;
+    color: grey	;
+    margin-top: 30px;
+    border-radius: 3px;
+    padding: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.2);
+
+}
+
+.textintro {
+    text-align: justify;
+    padding: 15px;
+    word-spacing: 3px;
+    line-height: 25px;
+}
+
+.bouton {
+    background-color: #e05454;
+    color: white;
+    border: solid 0px;
+    border-radius: 5px;
+    padding: 15px;
+    max-width: 150px;
+    margin: auto;
+    align-content: center;
+
+}
+
+.bouton a {
+    text-decoration: none;
+    color: white;
+}
+
+li {
+    list-style-type: none;
+    display: inline-flex;
+    flex-flow: column;
+    color: silver;
+    padding: 15px;
+    margin-right: 50px;
+}
+
+li a {
+    text-decoration: none;
+    color: silver;
+}
+
+.gris {
+    background-color: silver;
+}
+
+.film img {
+    float: left;
+    width: 15%;
+    
+
+}
+
+.fab {
+    font-size: 30px;
+}
+
+.image {
+    margin: 10px;
+    display: inline;
+}
+
+.image img {
+    width: 80px;
+    height: auto;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.txt {
+    display: inline;
+    width: 400px;
+    margin: 10px;
+}
+
+.txt p {
+    text-align: justify;
+    line-height: 30px;
+}
+
+article {
+    display: flex;
+    padding: 5px;
+    margin: 15px;
+}
